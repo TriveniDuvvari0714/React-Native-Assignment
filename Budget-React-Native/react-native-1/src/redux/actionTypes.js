@@ -1,0 +1,2 @@
+export const ADD_BUDGET_TO_LIST = "ADD_BUDGET_TO_LIST";
+export const GET_BUDGET_LIST = "GET_BUDGET_LIST";
